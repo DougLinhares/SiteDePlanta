@@ -1,0 +1,59 @@
+body{
+  margin: 0px;
+  font-family: Tahoma;
+  text-align: center;
+}
+
+.secao-topo{
+  width: auto;
+  margin: 0 auto; 
+  background-color: #dfdfdf;
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+.img-logotipo{
+  width: 320px;
+}
+
+.texto-verde{
+  color: #77cb51;
+}
+
+.secao-meio{
+    width: autopx;
+    margin: 20px auto 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.color-verde{
+  background-color: #ccecbe;
+}
+
+.img-planta{
+  width: 500px;
+  padding-top: 10px;
+}
+
+.secao-rodape{
+  margin: 15px auto 0;
+  font-size: 20px;
+  font-weight: bold;
+  
+  
+}
+
+h1{
+  font-size: 32px;
+}
+
+h2{
+  font-size: 25px;
+  font-weight: normal;
+}
+
+h3{
+  font-size: 22px;
+  font-weight: normal;
+}
